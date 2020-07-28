@@ -1,2 +1,3 @@
 # devskill-golang
-Golang Practice / Templates / Reference material
+
+Golang practice & templates
